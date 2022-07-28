@@ -3,5 +3,5 @@
   tasks:
     - name: Hello Message
       debug:
-        msg: "Hello message from app-01 and app-02 instances"
+        msg: "Hello message from app-02 instance"
 
